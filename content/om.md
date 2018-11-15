@@ -4,25 +4,17 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
-    redovisa:
-        region: sidebar-right
-        template: anax/v2/block/default
-        data:
-            meta: 
-                type: single
-                route: block/om-redovisa
+
 ---
-Om
-=========================
+##Om
+__________________________
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+I denna kursen som heter design skall vi få lära oss hur man skaper en användavänlig webbsida
+som gör det enklet för en programerare att bygga vidare på. Jag tycker att denna kursen verkar mycket intressant
+och jag ser fram emot att få lära hur man skaper
 
-Skriv några kloka ord om kursen?
-
-Lägg till en representativ bild för kursen, enligt ditt egna val.
-
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+[FIGURE src=image/alpresa.jpg?w=300 caption="Bild från staden Bled"]

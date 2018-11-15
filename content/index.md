@@ -1,25 +1,25 @@
 ---
-title: "Min fina titel"
+title: "Min fina design sida"
+views:
+    flash:
+        region: flash
+        template: anax/v2/image/default
+        data:
+            src: "image/theme/sky.jpg?width=1747&height=100&crop-to-fit&area=0,0,30,0"     
+
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            class: "byline"
+            meta:
+                type: single                
+                route: block/byline               
 ---
-Min me-sida i kursen design
-=========================
+##Min me-sida i kursen design
+__________________________
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/skidor.jpg?w=200" class="right" caption="Jag på skidor"]
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
-
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
-
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Jag heter Peter Svensson, är 33 år och jag bor i Alingsås. På min fritid tycker jag mycket om att utöva olika konditionsidrotter så som löpning, cykling och längdskidåkning. Jag tagit mig igenom En Svensk Superklassiker vilket innebär att jag klarat samtliga delar i klassikern på under 20 timmar. Mina ben har tagit mig runt vättern två gånger med en bästa tid på 7:53 (2017) och runt Lidingö två gånger med bästa tid på 2:47 (2011). Mina armar har tagit mig från Sälen till Mora tre gånger med en bästa tid på Öppet Spårt 6:13 (2017). Den 8 september i år sprang jag min första marathon och gick in på tiden 3:31:46. Hade förväntat mig att springa i mål på en till mellan 3:40-3:45, så jag är väldigt glad att det gick så bra som det gick. Ett annat intresse är att följa utvecklingen på den svenska börsen. Min portfölj i år har haft en väldigt fin utveckling i jämförelse med index.
